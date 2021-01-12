@@ -17,8 +17,10 @@ People’s willingness to engage in pro-social behaviors may ultimately inform a
 In order to channel participant’s thoughts on potential consequences caused by SLR we used three-minute-long videos. These videos included testimonials of people that are in a comparable situation and visualize the impacts of SLR (land erosion, floods, stronger high tides; saltwater intrusion, loss of harvest). Between samples, we hold the style and content of the videos constant and vary to what degree migration to adapt is shown. In Vietnam, we additionally introduced two hypothetical scenarios at the end of the video to experimentally vary the relocation belief – either individual relocation or community resettlement.  The video treatment was randomly assigned at the session level in the experimental workshops in Solomon Islands, and at the individual level in the survey experiments. In Solomon Islands, we decided against showing a neutral video in the control sessions. Thus, we cannot exclude the possibility of any video effects per se driving the results in Solomon Islands.
 - "treatment_SI.mp4" is the treatment video used in Solomon Islands
 - "treatment_BD.mp4" is the treatment video used in Bangladesh
-- "treatment_VN.mp4" is the treatment video used in Vietnam
-- "control.mp4" is the control video used in Bangladesh and Vietnam
+- "control_BD.mp4" is the control video used in Bangladesh
+- "treatment_individual_VN.mp4" is the individual relocation treatment video used in Vietnam
+- "treatment_community_VN.mp4" is the community relocation treatment video used in Vietnam
+- "control_VN.mp4" is the control video used in  Vietnam
 
 ## Data and analysis files
 We will make the code and data to reproduce the analysis and graphs reported in the main manuscript and supplementary materials available upon acceptance of the manuscript.
