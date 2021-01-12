@@ -4,7 +4,6 @@ This repository provides the information videos used in the treatments, as well 
 Authors: Ivo Steimanis1 & Björn Vollan1,*
 Affiliations: 1 Department of Economics, Philipps University Marburg, 35032 Marburg, Germany
 *Correspondence to: Björn Vollan bjoern.vollan@wiwi.uni-marburg.de
-Email:  bjoern.vollan@wiwi.uni-marburg.de
 ORCID:  Steimanis: 0000-0002-8550-4675; Vollan: 0000-0002-5592-4185
 Classification: Social Sciences, Economic Sciences
 Keywords: climate hazards, pro-social behavior, behavioral tasks
