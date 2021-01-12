@@ -2,11 +2,11 @@
 This repository provides the information videos used in the treatments, as well as the data and analysis files to reproduce the results of the  paper "Pro-social behavior in response to slow- and fast-onset hazards". Does exposure to fast and slow-onset climate hazards affect prosociality towards others? Economic theory and evidence from students suggests that such behaviors would decline in case of a looming displacement threat. We test these predictions using behavioral tasks to measure prosociality and randomize information to make climate hazards salient for one group.  We recruit people who experienced a typhoon in the Philippines, live on low-lying atolls in Solomon Islands or in delta-regions in Bangladesh and Vietnam. Our results show that both fast and slow-onset natural disasters increase pro-social behavior without harming the out-group. Peoples’ response to the displacement threat is geared towards collective actions to adapt in-situ.
 
 Authors: Ivo Steimanis1 & Björn Vollan1,*
-Affiliations: 1 Department of Economics, Philipps University Marburg, 35032 Marburg, Germany
-*Correspondence to: Björn Vollan bjoern.vollan@wiwi.uni-marburg.de
-ORCID:  Steimanis: 0000-0002-8550-4675; Vollan: 0000-0002-5592-4185
-Classification: Social Sciences, Economic Sciences
-Keywords: climate hazards, pro-social behavior, behavioral tasks
+Affiliations: 1 Department of Economics, Philipps University Marburg, 35032 Marburg, Germany <br>
+*Correspondence to: Björn Vollan bjoern.vollan@wiwi.uni-marburg.de <br>
+ORCID:  Steimanis: 0000-0002-8550-4675; Vollan: 0000-0002-5592-4185 <br>
+Classification: Social Sciences, Economic Sciences <br>
+Keywords: climate hazards, pro-social behavior <br>
 
 
 ## Abstract
